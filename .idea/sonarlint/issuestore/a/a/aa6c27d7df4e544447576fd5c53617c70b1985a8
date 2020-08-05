@@ -1,0 +1,6 @@
+
+nsquid:S1149
+"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ôü¥8àÛ—ú».
+8squid:S1220""Move this file to a named package.8„¤—ú».
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÈÎüáüÿÿÿÿ8àÛ—ú».
+hsquid:UnusedPrivateMethod"7Remove this unused private "getInfixExpression" method.(ßÓ¯èÿÿÿÿÿ8”¨·ú».

@@ -2,14 +2,6 @@ import java.util.Stack;
 
 public class ParanthesesBalanced {
 
-  public static void main(String[] args) {
-    System.out.println(isBalanced("{[()]}"));
-    System.out.println(isBalanced("{[(]}"));
-    System.out.println(isBalanced("{[("));
-    System.out.println(isBalanced("{[()]}{([()])}[({})]"));
-    System.out.println(isBalanced("]})"));
-  }
-
   public static boolean isBalanced(String anSetOfParantheses) {
     Stack<Character> stack = new Stack<Character>();
     for (int i = 0; i < anSetOfParantheses.length(); i++) {

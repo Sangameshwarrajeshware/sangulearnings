@@ -9,8 +9,8 @@
         <module name="sangulearnings" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="sangulearnings" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="sangulearnings" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
