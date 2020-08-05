@@ -1,0 +1,16 @@
+
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(„ö¢8±Üšì».
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Â‰Ôü8¨Ö¯ì».
+8squid:S1220""Move this file to a named package.8Èà™ì».
+Rsquid:S1066"/Merge this if statement with the enclosing one.(Ú¿»üıÿÿÿÿ8Èà™ì».
+V
+squid:S106	"9Replace this use of System.out or System.err by a logger.(×©°Ò8éãœì».
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÏÁ³â8Èà™ì».
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ôô²ùÿÿÿÿ8¢÷šì».
+msquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(›¯’g8Èà™ì».
+[
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(İ‡¿‘úÿÿÿÿ8“µ ì».
