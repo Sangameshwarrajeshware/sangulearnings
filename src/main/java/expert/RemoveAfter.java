@@ -5,9 +5,6 @@ import java.util.Iterator;
 import java.util.StringJoiner;
 
 
-/**
- * Created by Rene Argento
- */
 public class RemoveAfter<Item> implements Iterable<Item> {
 
   private class Node {
