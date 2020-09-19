@@ -101,6 +101,6 @@ public class MoveToFront<Item> implements Iterable<Item>{
     }
 
     System.out.println("Characters: " + list.toString());
-    // StdOut.println("Expected: z d c b a");
+    // System.out.println("Expected: z d c b a");
   }
 }

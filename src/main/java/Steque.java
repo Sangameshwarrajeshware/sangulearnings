@@ -1,22 +1,97 @@
-public class Steque<Item>{
+import java.util.Iterator;
 
-  private Node first;
-  private Node last;
-  private int N;
+public class Steque<Item> implements Iterable<Item> {
 
-  private class Node{
+
+  private class Node {
     Item item;
+    Node previous;
     Node next;
   }
 
-// push item on top of the stack
-  public void push(Item item){
+  private Node first;
+  private Node last;
+  private int size;
+
+  public boolean isEmpty() {
+    return size == 0;
+  }
+
+  public int size() {
+    return size;
+  }
+
+  public void push(Item item) {
+    Node oldFirst = first;
+
+    first = new Node();
+    first.item = item;
+    first.next = oldFirst;
+
+    if (oldFirst != null) {
+      oldFirst.previous = first;
+    } else {
+      last = first;
+    }
+
+    size++;
+  }
+
+  public Item pop() {
+    if (isEmpty()) {
+      throw new RuntimeException("Steque underflow");
+    }
+    Item item = first.item;
+    first = first.next;
+
+    if (first != null) {
+      first.previous = null;
+    } else {
+      last = null;
+    }
+    size--;
+
+    return item;
+  }
+
+  public void enqueue(Item item) {
     Node oldLast = last;
     last = new Node();
     last.item = item;
-    oldLast.next = last;
-    N++;
+    last.previous = oldLast;
 
+    if (oldLast != null) {
+      oldLast.next = last;
+    } else {
+      first = last;
+    }
+
+    size++;
+  }
+
+  public Iterator<Item> iterator() {
+    return new StequeIterator();
+  }
+
+  private class StequeIterator implements Iterator<Item>{
+
+    Node current = first;
+    int index = 0;
+
+    @Override
+    public boolean hasNext() {
+      return index < size;
+    }
+
+    @Override
+    public Item next() {
+      Item item = current.item;
+      current = current.next;
+
+      index++;
+
+      return item;
+    }
   }
 
 
