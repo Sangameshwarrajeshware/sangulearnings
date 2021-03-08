@@ -1,7 +1,7 @@
 
-jsquid:S2272"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(‚ÑÑŞ8Ù²¥Ë½.
 dsquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(êÌÌ¦şÿÿÿÿ
 Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(µ¯•üÿÿÿÿ8¯Ë§Ë½.
-Y
 squid:S106"9Replace this use of System.out or System.err by a logger.(óšÖÿüÿÿÿÿ8¯Ë§Ë½.
+jsquid:S2272"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(‚ÑÑŞ8Ù²¥Ë½.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(µ¯•üÿÿÿÿ8¯Ë§Ë½.

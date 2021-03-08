@@ -6,7 +6,11 @@
 
   <groupId>sangu-learnings</groupId>
   <artifactId>sangu-learnings</artifactId>
+  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
+  <modules>
+    <module>multi-thead</module>
+  </modules>
 
   <dependencies>
     <dependency>

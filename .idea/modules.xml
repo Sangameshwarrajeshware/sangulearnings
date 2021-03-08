@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/multi-thead/multi-thead.iml" filepath="$PROJECT_DIR$/multi-thead/multi-thead.iml" />
       <module fileurl="file://$PROJECT_DIR$/sangulearnings.iml" filepath="$PROJECT_DIR$/sangulearnings.iml" />
     </modules>
   </component>
