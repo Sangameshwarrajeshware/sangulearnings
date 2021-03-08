@@ -4,22 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db85785b-d02b-47a0-9b12-1630e6f28fc4" name="Default" comment="Solved some problems">
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/Synchronized/Display.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/Synchronized/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/Synchronized/SynchronizedDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/reentrantlock/Display.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/reentrantlock/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/reentrantlock/ReentrantLockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/reentrantlock/trylock/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/reentrantlock/trylock/TryLockReentrantLockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/reentrantlock/trylockwithtime/TryLockWithTimeThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/reentrantlock/trylockwithtime/TryLockWithtimeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/threadpool/PrintJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/threadpool/ThreadPoolDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/untitled.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="db85785b-d02b-47a0-9b12-1630e6f28fc4" name="Default" comment="Multithreading Synchronized ReentrantLock and ExecutorService Thread Pool">
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/threadpool/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -298,7 +284,7 @@
       <workItem from="1601457958249" duration="4567000" />
       <workItem from="1601576065945" duration="1087000" />
       <workItem from="1602326227215" duration="361000" />
-      <workItem from="1615210678680" duration="4758000" />
+      <workItem from="1615210678680" duration="5255000" />
     </task>
     <task id="LOCAL-00001" summary="Parantheses problem solved">
       <created>1596639227405</created>
@@ -321,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615211462493</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Multithreading Synchronized ReentrantLock and ExecutorService Thread Pool">
+      <created>1615217360967</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615217360967</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -363,7 +356,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Parantheses problem solved" />
     <MESSAGE value="Solved some problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved some problems" />
+    <MESSAGE value="Multithreading Synchronized ReentrantLock and ExecutorService Thread Pool" />
+    <option name="LAST_COMMIT_MESSAGE" value="Multithreading Synchronized ReentrantLock and ExecutorService Thread Pool" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
