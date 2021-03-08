@@ -16,3 +16,5 @@ service.submit(job) ; // submit jobs
 
 servie.shutdown(); // to shutdown the service
 `
+_while desinging web servers and applications servers we can use Thread Pool concept_
+
