@@ -5,44 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db85785b-d02b-47a0-9b12-1630e6f28fc4" name="Default" comment="Solved some problems">
-      <change afterPath="$PROJECT_DIR$/multi-thead/multi-thead.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/ReentrantLockSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/Synchronized/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/Synchronized/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/Synchronized/SynchronizedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/reentrantlock/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/reentrantlock/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/reentrantlock/ReentrantLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/reentrantlock/trylock/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/reentrantlock/trylock/TryLockReentrantLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/reentrantlock/trylockwithtime/TryLockWithTimeThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/reentrantlock/trylockwithtime/TryLockWithtimeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/threadpool/PrintJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/threadpool/ThreadPoolDemo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/untitled.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FixedCapacityStackOfString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedQueueOfString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedStackOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StdIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StdOut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/WeightedQuickUnion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linkedlist/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linkedlist/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/priorityqueue/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sorting/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sorting/LinkedListMergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sorting/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sorting/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sorting/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sorting/SortCompare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/19b0d6e61f6b3edfa808d810ea5069c393093aaa" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/19b0d6e61f6b3edfa808d810ea5069c393093aaa" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/33ad2402cb26d0e2a7deeb6ce3b2bd60a56f3cce" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/33ad2402cb26d0e2a7deeb6ce3b2bd60a56f3cce" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/5216326acce7cb203629e93f43fb73336dcaa5f6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/5216326acce7cb203629e93f43fb73336dcaa5f6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/6077362e678986a01bfb061083f1a5b6403522e1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/6077362e678986a01bfb061083f1a5b6403522e1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/996fce7128bb123fc1759d73222c551781642e89" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/996fce7128bb123fc1759d73222c551781642e89" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/ba76987fd8b7253b302855aac2d3bff72bcb8b9f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/ba76987fd8b7253b302855aac2d3bff72bcb8b9f" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Steque$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Steque$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Steque.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Steque.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/expert/DeleteKthNode$ListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/expert/DeleteKthNode$ListIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/expert/DeleteKthNode$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/expert/DeleteKthNode$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/expert/DeleteKthNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/expert/DeleteKthNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/expert/RemoveAfter$ListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/expert/RemoveAfter$ListIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/expert/RemoveAfter$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/expert/RemoveAfter$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/expert/RemoveAfter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/expert/RemoveAfter.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +30,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Arquillian JUnit Test Class" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -119,6 +97,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/multi-thead/src/main/java/reentrantlock" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -129,66 +108,33 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/multi-thead/src/main/java/reentrantlock" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.ReentrantLockSample">
+  <component name="RunManager" selected="Application.ThreadPoolDemo">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.InsertionSort" />
-      <module name="sangulearnings" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedListMergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.LinkedListMergeSort" />
-      <module name="sangulearnings" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReentrantLockSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReentrantLockSample" />
+    <configuration name="ReentrantLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reentrantlock.ReentrantLockDemo" />
       <module name="multi-thead" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.SelectionSort" />
-      <module name="sangulearnings" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sorting.*" />
+          <option name="PATTERN" value="reentrantlock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,13 +142,55 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.SortCompare" />
-      <module name="sangulearnings" />
+    <configuration name="SynchronizedDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Synchronized.SynchronizedDemo" />
+      <module name="multi-thead" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sorting.*" />
+          <option name="PATTERN" value="Synchronized.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threadpool.ThreadPoolDemo" />
+      <module name="multi-thead" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threadpool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryLockReentrantLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reentrantlock.trylock.TryLockReentrantLockDemo" />
+      <module name="multi-thead" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reentrantlock.trylock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryLockWithtimeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reentrantlock.trylockwithtime.TryLockWithtimeDemo" />
+      <module name="multi-thead" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reentrantlock.trylockwithtime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,19 +241,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SelectionSort" />
-      <item itemvalue="Application.InsertionSort" />
-      <item itemvalue="Application.SortCompare" />
-      <item itemvalue="Application.LinkedListMergeSort" />
-      <item itemvalue="Application.ReentrantLockSample" />
+      <item itemvalue="Application.SynchronizedDemo" />
+      <item itemvalue="Application.ReentrantLockDemo" />
+      <item itemvalue="Application.TryLockReentrantLockDemo" />
+      <item itemvalue="Application.TryLockWithtimeDemo" />
+      <item itemvalue="Application.ThreadPoolDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReentrantLockSample" />
-        <item itemvalue="Application.LinkedListMergeSort" />
-        <item itemvalue="Application.SortCompare" />
-        <item itemvalue="Application.InsertionSort" />
-        <item itemvalue="Application.SelectionSort" />
+        <item itemvalue="Application.ThreadPoolDemo" />
+        <item itemvalue="Application.TryLockWithtimeDemo" />
+        <item itemvalue="Application.TryLockReentrantLockDemo" />
+        <item itemvalue="Application.ReentrantLockDemo" />
+        <item itemvalue="Application.SynchronizedDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +298,7 @@
       <workItem from="1601457958249" duration="4567000" />
       <workItem from="1601576065945" duration="1087000" />
       <workItem from="1602326227215" duration="361000" />
-      <workItem from="1615210678680" duration="731000" />
+      <workItem from="1615210678680" duration="4758000" />
     </task>
     <task id="LOCAL-00001" summary="Parantheses problem solved">
       <created>1596639227405</created>
@@ -326,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596652994722</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Solved some problems">
+      <created>1615211462492</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615211462493</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
