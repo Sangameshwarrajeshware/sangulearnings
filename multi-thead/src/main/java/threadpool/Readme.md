@@ -1,6 +1,6 @@
 # **Thread Pool or Executor Service**
 
-Creating new Thread for every job creates performance and memeoby problems to overcome this we should go for the Thread Pool
+Creating new Thread for every job creates **performance and memory problems** to overcome this we should go for the Thread Pool
 
 Thread pool is pool of already created threads and ready to do our job 
 
