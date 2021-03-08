@@ -14,6 +14,7 @@ Future object can be used to retrive the result of callable job
 
 
 **Runnable**
+
 _if thread not required to return anything after completing the job then
 we should go for the Runnable
 
@@ -28,6 +29,7 @@ introduced in 1.0 version_
 
 
 **Callable**
+
 _if thread is required to return something after completing the job then we should go the callable
 
 contains only one mehotnd -> call()
