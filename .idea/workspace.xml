@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db85785b-d02b-47a0-9b12-1630e6f28fc4" name="Default" comment="Conditioanl with locks">
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/completablefuture/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/CompletableFuture/CompleteableFuture1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/CompletableFuture/CompleteableFuture10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/CompletableFuture/CompleteableFuture11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/CompletableFuture/CompleteableFuture12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/CompletableFuture/CompleteableFuture2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/CompletableFuture/CompleteableFuture3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/CompletableFuture/CompleteableFuture4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/CompletableFuture/CompleteableFuture5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/CompletableFuture/CompleteableFuture6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/CompletableFuture/CompleteableFuture7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/CompletableFuture/CompleteableFuture8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/CompletableFuture/CompleteableFuture9.png" afterDir="false" />
+    <list default="true" id="db85785b-d02b-47a0-9b12-1630e6f28fc4" name="Default" comment="Completable Future">
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/JavaLoom/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -312,7 +300,7 @@
       <workItem from="1615210678680" duration="11975000" />
       <workItem from="1615268822215" duration="3000" />
       <workItem from="1615301955820" duration="3079000" />
-      <workItem from="1615958742680" duration="11350000" />
+      <workItem from="1615958742680" duration="11668000" />
     </task>
     <task id="LOCAL-00001" summary="Parantheses problem solved">
       <created>1596639227405</created>
@@ -405,7 +393,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615995789633</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Completable Future">
+      <created>1615997600217</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1615997600217</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -455,7 +450,8 @@
     <MESSAGE value="Asynch" />
     <MESSAGE value="Asynch screenshots" />
     <MESSAGE value="Conditioanl with locks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Conditioanl with locks" />
+    <MESSAGE value="Completable Future" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completable Future" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
