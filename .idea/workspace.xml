@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db85785b-d02b-47a0-9b12-1630e6f28fc4" name="Default" comment="Asynch">
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/asynch/Asynch10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/asynch/Asynch11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/asynch/Asynch12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/asynch/Asynch13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/asynch/Asynch14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/asynch/Asynch3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/asynch/Asynch4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/asynch/Asynch5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/asynch/Asynch6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/asynch/Asynch7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/asynch/Asynch8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/asynch/Asynch9.png" afterDir="false" />
+    <list default="true" id="db85785b-d02b-47a0-9b12-1630e6f28fc4" name="Default" comment="Asynch screenshots">
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/conditionallocks/Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/multi-thead/src/main/java/asynch/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/multi-thead/src/main/java/asynch/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -311,7 +299,7 @@
       <workItem from="1615210678680" duration="11975000" />
       <workItem from="1615268822215" duration="3000" />
       <workItem from="1615301955820" duration="3079000" />
-      <workItem from="1615958742680" duration="10155000" />
+      <workItem from="1615958742680" duration="10848000" />
     </task>
     <task id="LOCAL-00001" summary="Parantheses problem solved">
       <created>1596639227405</created>
@@ -390,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615987675122</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Asynch screenshots">
+      <created>1615994409651</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1615994409651</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -438,7 +433,8 @@
     <MESSAGE value="difference btw callable and runnable" />
     <MESSAGE value="Thread Local concept" />
     <MESSAGE value="Asynch" />
-    <option name="LAST_COMMIT_MESSAGE" value="Asynch" />
+    <MESSAGE value="Asynch screenshots" />
+    <option name="LAST_COMMIT_MESSAGE" value="Asynch screenshots" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
