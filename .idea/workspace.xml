@@ -4,9 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db85785b-d02b-47a0-9b12-1630e6f28fc4" name="Default" comment="Asynch screenshots">
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/conditionallocks/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="db85785b-d02b-47a0-9b12-1630e6f28fc4" name="Default" comment="Conditioanl with locks">
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/completablefuture/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/CompletableFuture/CompleteableFuture1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/CompletableFuture/CompleteableFuture10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/CompletableFuture/CompleteableFuture11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/CompletableFuture/CompleteableFuture12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/CompletableFuture/CompleteableFuture2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/CompletableFuture/CompleteableFuture3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/CompletableFuture/CompleteableFuture4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/CompletableFuture/CompleteableFuture5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/CompletableFuture/CompleteableFuture6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/CompletableFuture/CompleteableFuture7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/CompletableFuture/CompleteableFuture8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/CompletableFuture/CompleteableFuture9.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +103,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/multi-thead/src/main/resources/img/asynch" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/multi-thead/src/main/resources/img/CompletableFuture" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -107,6 +118,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/CompletableFuture" />
+      <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/conditional" />
       <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/asynch" />
       <recent name="$PROJECT_DIR$/multi-thead/src/main/java/reentrantlock" />
     </key>
@@ -299,7 +312,7 @@
       <workItem from="1615210678680" duration="11975000" />
       <workItem from="1615268822215" duration="3000" />
       <workItem from="1615301955820" duration="3079000" />
-      <workItem from="1615958742680" duration="10848000" />
+      <workItem from="1615958742680" duration="11350000" />
     </task>
     <task id="LOCAL-00001" summary="Parantheses problem solved">
       <created>1596639227405</created>
@@ -385,7 +398,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615994409651</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Conditioanl with locks">
+      <created>1615995789633</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1615995789633</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -434,7 +454,8 @@
     <MESSAGE value="Thread Local concept" />
     <MESSAGE value="Asynch" />
     <MESSAGE value="Asynch screenshots" />
-    <option name="LAST_COMMIT_MESSAGE" value="Asynch screenshots" />
+    <MESSAGE value="Conditioanl with locks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conditioanl with locks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
