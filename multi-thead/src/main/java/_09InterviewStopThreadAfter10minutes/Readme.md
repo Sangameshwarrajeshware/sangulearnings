@@ -20,3 +20,5 @@
 ![plot](../../resources/img/interviewstopthread/stopthread18.png)
 ![plot](../../resources/img/interviewstopthread/stopthread19.png)
 ![plot](../../resources/img/interviewstopthread/stopthread20.png)
+![plot](../../resources/img/interviewstopthread/stopthread21.png)
+![plot](../../resources/img/interviewstopthread/stopthread22.png)
