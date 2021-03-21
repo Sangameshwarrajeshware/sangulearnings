@@ -1,0 +1,16 @@
+# Reentrant Lock
+
+![plot](../../resources/img/reentrant/reentrant1.png)
+![plot](../../resources/img/reentrant/reentrant2.png)
+![plot](../../resources/img/reentrant/reentrant3.png)
+![plot](../../resources/img/reentrant/reentrant4.png)
+![plot](../../resources/img/reentrant/reentrant5.png)
+![plot](../../resources/img/reentrant/reentrant6.png)
+![plot](../../resources/img/reentrant/reentrant7.png)
+![plot](../../resources/img/reentrant/reentrant8.png)
+![plot](../../resources/img/reentrant/reentrant9.png)
+![plot](../../resources/img/reentrant/reentrant10.png)
+![plot](../../resources/img/reentrant/reentrant11.png)
+![plot](../../resources/img/reentrant/reentrant12.png)
+![plot](../../resources/img/reentrant/reentrant13.png)
+![plot](../../resources/img/reentrant/reentrant14.png)

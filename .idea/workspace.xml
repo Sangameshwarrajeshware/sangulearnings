@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db85785b-d02b-47a0-9b12-1630e6f28fc4" name="Default" comment="Completable Future">
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/JavaLoom/Readme.md" afterDir="false" />
+    <list default="true" id="db85785b-d02b-47a0-9b12-1630e6f28fc4" name="Default" comment="Java Loom">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +92,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/multi-thead/src/main/resources/img/CompletableFuture" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/multi-thead/src/main/resources/img/JavaLoom" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -106,6 +107,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/JavaLoom" />
       <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/CompletableFuture" />
       <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/conditional" />
       <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/asynch" />
@@ -201,19 +203,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -300,7 +289,8 @@
       <workItem from="1615210678680" duration="11975000" />
       <workItem from="1615268822215" duration="3000" />
       <workItem from="1615301955820" duration="3079000" />
-      <workItem from="1615958742680" duration="11668000" />
+      <workItem from="1615958742680" duration="17088000" />
+      <workItem from="1616132661891" duration="203000" />
     </task>
     <task id="LOCAL-00001" summary="Parantheses problem solved">
       <created>1596639227405</created>
@@ -400,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615997600217</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Java Loom">
+      <created>1615998949180</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1615998949180</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -451,7 +448,8 @@
     <MESSAGE value="Asynch screenshots" />
     <MESSAGE value="Conditioanl with locks" />
     <MESSAGE value="Completable Future" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completable Future" />
+    <MESSAGE value="Java Loom" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Loom" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
