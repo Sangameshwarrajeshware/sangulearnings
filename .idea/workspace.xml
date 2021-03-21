@@ -4,23 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db85785b-d02b-47a0-9b12-1630e6f28fc4" name="Default" comment="Interreption">
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/semaphores/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/semaphores/Semaphores1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/semaphores/Semaphores10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/semaphores/Semaphores11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/semaphores/Semaphores12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/semaphores/Semaphores13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/semaphores/Semaphores14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/semaphores/Semaphores15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/semaphores/Semaphores2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/semaphores/Semaphores3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/semaphores/Semaphores4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/semaphores/Semaphores5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/semaphores/Semaphores6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/semaphores/Semaphores7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/semaphores/Semaphores8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/semaphores/Semaphores9.png" afterDir="false" />
+    <list default="true" id="db85785b-d02b-47a0-9b12-1630e6f28fc4" name="Default" comment="renaming directories">
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_09InterviewStopThreadAfter10minutes/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/interviewstopthread/stopthread1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/interviewstopthread/stopthread10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/interviewstopthread/stopthread11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/interviewstopthread/stopthread12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/interviewstopthread/stopthread13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/interviewstopthread/stopthread14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/interviewstopthread/stopthread15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/interviewstopthread/stopthread16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/interviewstopthread/stopthread17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/interviewstopthread/stopthread18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/interviewstopthread/stopthread19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/interviewstopthread/stopthread2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/interviewstopthread/stopthread20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/interviewstopthread/stopthread3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/interviewstopthread/stopthread4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/interviewstopthread/stopthread5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/interviewstopthread/stopthread6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/interviewstopthread/stopthread7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/interviewstopthread/stopthread8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/interviewstopthread/stopthread9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +112,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/multi-thead/src/main/resources/img/semaphores" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/multi-thead/src/main/resources/img/interviewstopthread" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -121,11 +127,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/interviewstopthread" />
       <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/semaphores" />
       <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/interrpt" />
       <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/readwritereentrant" />
       <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/reentrant" />
-      <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/JavaLoom" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -316,7 +322,7 @@
       <workItem from="1615301955820" duration="3079000" />
       <workItem from="1615958742680" duration="17088000" />
       <workItem from="1616132661891" duration="203000" />
-      <workItem from="1616308244634" duration="1679000" />
+      <workItem from="1616308244634" duration="2575000" />
     </task>
     <task id="LOCAL-00001" summary="Parantheses problem solved">
       <created>1596639227405</created>
@@ -444,7 +450,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616310638675</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Semaphores">
+      <created>1616311981633</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1616311981633</updated>
+    </task>
+    <task id="LOCAL-00020" summary="renaming directories">
+      <created>1616312231951</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1616312231951</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -499,7 +519,9 @@
     <MESSAGE value="Reentrant Locks" />
     <MESSAGE value="Read and write Reentrant Locks" />
     <MESSAGE value="Interreption" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interreption" />
+    <MESSAGE value="Semaphores" />
+    <MESSAGE value="renaming directories" />
+    <option name="LAST_COMMIT_MESSAGE" value="renaming directories" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
