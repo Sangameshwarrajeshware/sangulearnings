@@ -4,19 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db85785b-d02b-47a0-9b12-1630e6f28fc4" name="Default" comment="Accumulator">
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_16StripedLocks/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/StripedLocks/StripedLocks1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/StripedLocks/StripedLocks10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/StripedLocks/StripedLocks11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/StripedLocks/StripedLocks2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/StripedLocks/StripedLocks3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/StripedLocks/StripedLocks4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/StripedLocks/StripedLocks5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/StripedLocks/StripedLocks6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/StripedLocks/StripedLocks7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/StripedLocks/StripedLocks8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/StripedLocks/StripedLocks9.png" afterDir="false" />
+    <list default="true" id="db85785b-d02b-47a0-9b12-1630e6f28fc4" name="Default" comment="Striped Locks">
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_17DeadLock/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/deadlock/DeadLock1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/deadlock/DeadLock10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/deadlock/DeadLock11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/deadlock/DeadLock12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/deadlock/DeadLock13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/deadlock/DeadLock14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/deadlock/DeadLock15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/deadlock/DeadLock2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/deadlock/DeadLock3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/deadlock/DeadLock4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/deadlock/DeadLock5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/deadlock/DeadLock6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/deadlock/DeadLock7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/deadlock/DeadLock8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/deadlock/DeadLock9.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +108,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/multi-thead/src/main/resources/img/StripedLocks" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/multi-thead/src/main/resources/img/deadlock" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -119,11 +123,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/deadlock" />
       <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/StripedLocks" />
       <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/Accumulator" />
       <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/SynchronousQueue" />
       <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/cyclicbarrier" />
-      <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/forkjoinpol" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -318,7 +322,7 @@
       <workItem from="1615301955820" duration="3079000" />
       <workItem from="1615958742680" duration="17088000" />
       <workItem from="1616132661891" duration="203000" />
-      <workItem from="1616308244634" duration="14146000" />
+      <workItem from="1616308244634" duration="14552000" />
     </task>
     <task id="LOCAL-00001" summary="Parantheses problem solved">
       <created>1596639227405</created>
@@ -516,7 +520,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616345732929</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Striped Locks">
+      <created>1616346673471</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1616346673471</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -580,7 +591,8 @@
     <MESSAGE value="Cyclic barrier phaser" />
     <MESSAGE value="Synchrous Queue" />
     <MESSAGE value="Accumulator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Accumulator" />
+    <MESSAGE value="Striped Locks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Striped Locks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
