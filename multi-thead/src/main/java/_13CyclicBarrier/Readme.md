@@ -1,5 +1,22 @@
 # CountDownLatch , CyclicBarrier and Phaser
 
+**CountDownLatch**
+
+`by using a CountDownLatch we can cause a thread to block until 
+other threads have completed a given task.`
+
+
+
+
+
+**Cyclic Barrier**
+
+`CyclicBarriers are used in programs in which we have a fixed number of 
+threads that must wait for each other to reach a common point before 
+continuing execution.`
+
+
+
 ![plot](../../resources/img/cyclicbarrier/cylcicbarrier1.png)
 ![plot](../../resources/img/cyclicbarrier/cylcicbarrier2.png)
 ![plot](../../resources/img/cyclicbarrier/cylcicbarrier3.png)
