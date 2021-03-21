@@ -1,4 +1,4 @@
-package reentrantlock.trylockwithtime;
+package _06reentrantlock.trylockwithtime;
 
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.ReentrantLock;

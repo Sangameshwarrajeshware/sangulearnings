@@ -156,12 +156,12 @@
       </method>
     </configuration>
     <configuration name="InheritableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threadlocal.InheritableDemo" />
+      <option name="MAIN_CLASS_NAME" value="_01threadlocal.InheritableDemo" />
       <module name="multi-thead" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threadlocal.*" />
+          <option name="PATTERN" value="_01threadlocal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +170,12 @@
       </method>
     </configuration>
     <configuration name="UserService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threadlocal.problems.UserService" />
+      <option name="MAIN_CLASS_NAME" value="_01threadlocal.problems.UserService" />
       <module name="multi-thead" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threadlocal.problems.*" />
+          <option name="PATTERN" value="_01threadlocal.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,12 +184,12 @@
       </method>
     </configuration>
     <configuration name="UserServiceWithTenTheads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threadlocal.problems.UserServiceWithTenTheads" />
+      <option name="MAIN_CLASS_NAME" value="_01threadlocal.problems.UserServiceWithTenTheads" />
       <module name="multi-thead" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threadlocal.problems.*" />
+          <option name="PATTERN" value="_01threadlocal.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,12 +198,12 @@
       </method>
     </configuration>
     <configuration name="UserServiceWithThreadLocal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threadlocal.problems.UserServiceWithThreadLocal" />
+      <option name="MAIN_CLASS_NAME" value="_01threadlocal.problems.UserServiceWithThreadLocal" />
       <module name="multi-thead" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threadlocal.problems.*" />
+          <option name="PATTERN" value="_01threadlocal.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

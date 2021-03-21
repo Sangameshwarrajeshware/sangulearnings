@@ -1,4 +1,4 @@
-package threadlocal.problems;
+package _01threadlocal.problems;
 
 import java.text.SimpleDateFormat;
 import java.time.LocalDate;
@@ -9,13 +9,14 @@ import java.util.Map;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class UserServiceWithThreadLocal {
+public class UserServiceUsingThreadPool {
 
   private static final ExecutorService threadPool = Executors.newFixedThreadPool(10);
+  private static final SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd");
 
   Map<Integer, LocalDate> users = new HashMap<>();
 
-  public UserServiceWithThreadLocal() {
+  public UserServiceUsingThreadPool() {
     users.put(100, LocalDate.now().minusYears(20));
     users.put(101, LocalDate.now().minusYears(25));
     users.put(102, LocalDate.now().minusYears(30));
@@ -28,9 +29,8 @@ public class UserServiceWithThreadLocal {
 
   public String birthDate(int userId) {
     LocalDate date = users.get(userId);
-    return ThreadSafeFormatter.df
-        .get()
-        .format(Date.from(date.atStartOfDay(ZoneId.systemDefault()).toInstant()));
+    return simpleDateFormat.format(
+        Date.from(date.atStartOfDay(ZoneId.systemDefault()).toInstant()));
   }
 
   public static void main(String[] args) {
@@ -39,14 +39,9 @@ public class UserServiceWithThreadLocal {
       int id = i;
       threadPool.submit(
           () -> {
-            String date = new UserServiceWithThreadLocal().birthDate(id);
+            String date = new UserServiceUsingThreadPool().birthDate(id);
             System.out.println(date);
           });
     }
-  }
-
-  static class ThreadSafeFormatter {
-    public static final ThreadLocal<SimpleDateFormat> df =
-        ThreadLocal.withInitial(() -> new SimpleDateFormat("yyyy-MM-dd"));
   }
 }

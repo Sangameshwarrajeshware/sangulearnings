@@ -1,4 +1,4 @@
-package reentrantlock.trylock;
+package _06reentrantlock.trylock;
 
 
 public class TryLockReentrantLockDemo {

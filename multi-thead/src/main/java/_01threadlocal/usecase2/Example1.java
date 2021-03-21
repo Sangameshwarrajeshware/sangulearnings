@@ -1,4 +1,4 @@
-package threadlocal.usecase2;
+package _01threadlocal.usecase2;
 
 public class Example1 {
 

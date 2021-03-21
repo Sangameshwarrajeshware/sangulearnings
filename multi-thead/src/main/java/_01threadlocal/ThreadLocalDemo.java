@@ -1,4 +1,4 @@
-package threadlocal;
+package _01threadlocal;
 
 public class ThreadLocalDemo {
 

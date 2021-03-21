@@ -1,4 +1,4 @@
-package reentrantlock;
+package _06reentrantlock;
 
 public class MyThread extends Thread{
   Display display;

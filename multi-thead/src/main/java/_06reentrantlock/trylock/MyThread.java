@@ -1,4 +1,4 @@
-package reentrantlock.trylock;
+package _06reentrantlock.trylock;
 
 import java.util.concurrent.locks.ReentrantLock;
 

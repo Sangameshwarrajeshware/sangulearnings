@@ -1,4 +1,4 @@
-package reentrantlock;
+package _06reentrantlock;
 
 public class ReentrantLockDemo {
   public  static  void main(String[] args){

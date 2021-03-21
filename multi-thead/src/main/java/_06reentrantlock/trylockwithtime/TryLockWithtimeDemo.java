@@ -1,4 +1,4 @@
-package reentrantlock.trylockwithtime;
+package _06reentrantlock.trylockwithtime;
 
 public class TryLockWithtimeDemo {
 
