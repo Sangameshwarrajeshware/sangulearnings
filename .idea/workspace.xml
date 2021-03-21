@@ -4,21 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db85785b-d02b-47a0-9b12-1630e6f28fc4" name="Default" comment="Synchrous Queue">
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_15Accumulator/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/Accumulator/Accumulator1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/Accumulator/Accumulator10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/Accumulator/Accumulator11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/Accumulator/Accumulator12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/Accumulator/Accumulator2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/Accumulator/Accumulator3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/Accumulator/Accumulator4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/Accumulator/Accumulator5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/Accumulator/Accumulator6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/Accumulator/Accumulator7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/Accumulator/Accumulator8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/Accumulator/Accumulator9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="db85785b-d02b-47a0-9b12-1630e6f28fc4" name="Default" comment="Accumulator">
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_16StripedLocks/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/StripedLocks/StripedLocks1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/StripedLocks/StripedLocks10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/StripedLocks/StripedLocks11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/StripedLocks/StripedLocks2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/StripedLocks/StripedLocks3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/StripedLocks/StripedLocks4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/StripedLocks/StripedLocks5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/StripedLocks/StripedLocks6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/StripedLocks/StripedLocks7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/StripedLocks/StripedLocks8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/StripedLocks/StripedLocks9.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +104,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/multi-thead/src/main/resources/img/Accumulator" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/multi-thead/src/main/resources/img/StripedLocks" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -121,11 +119,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/StripedLocks" />
       <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/Accumulator" />
       <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/SynchronousQueue" />
       <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/cyclicbarrier" />
       <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/forkjoinpol" />
-      <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/scattergather" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -320,7 +318,7 @@
       <workItem from="1615301955820" duration="3079000" />
       <workItem from="1615958742680" duration="17088000" />
       <workItem from="1616132661891" duration="203000" />
-      <workItem from="1616308244634" duration="13894000" />
+      <workItem from="1616308244634" duration="14146000" />
     </task>
     <task id="LOCAL-00001" summary="Parantheses problem solved">
       <created>1596639227405</created>
@@ -511,7 +509,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616343308830</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Accumulator">
+      <created>1616345732929</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1616345732929</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -574,7 +579,8 @@
     <MESSAGE value="Fork Join Pool" />
     <MESSAGE value="Cyclic barrier phaser" />
     <MESSAGE value="Synchrous Queue" />
-    <option name="LAST_COMMIT_MESSAGE" value="Synchrous Queue" />
+    <MESSAGE value="Accumulator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Accumulator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
