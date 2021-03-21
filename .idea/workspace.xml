@@ -4,45 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db85785b-d02b-47a0-9b12-1630e6f28fc4" name="Default" comment="Interview question thread stop after 10 minutes">
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_10IntervewProducerConsumer/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/interviewstopthread/stopthread21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/interviewstopthread/stopthread22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer34.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer35.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/producerconsumer/ProducerConsumer9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/multi-thead/src/main/java/_09InterviewStopThreadAfter10minutes/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_09InterviewStopThreadAfter10minutes/Readme.md" afterDir="false" />
+    <list default="true" id="db85785b-d02b-47a0-9b12-1630e6f28fc4" name="Default" comment="Producer and Consumer Pattern">
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_10IntervewProducerConsumer/MyBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_10IntervewProducerConsumer/UsingBlockingQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -338,7 +303,7 @@
       <workItem from="1615301955820" duration="3079000" />
       <workItem from="1615958742680" duration="17088000" />
       <workItem from="1616132661891" duration="203000" />
-      <workItem from="1616308244634" duration="3247000" />
+      <workItem from="1616308244634" duration="7742000" />
     </task>
     <task id="LOCAL-00001" summary="Parantheses problem solved">
       <created>1596639227405</created>
@@ -487,7 +452,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616313466387</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Producer and Consumer Pattern">
+      <created>1616315039013</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1616315039013</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -545,7 +517,8 @@
     <MESSAGE value="Semaphores" />
     <MESSAGE value="renaming directories" />
     <MESSAGE value="Interview question thread stop after 10 minutes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interview question thread stop after 10 minutes" />
+    <MESSAGE value="Producer and Consumer Pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Producer and Consumer Pattern" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
