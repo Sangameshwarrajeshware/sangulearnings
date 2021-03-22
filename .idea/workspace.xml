@@ -4,8 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db85785b-d02b-47a0-9b12-1630e6f28fc4" name="Default" comment="Data Race">
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_19DoubleLockSingleton/Readme.md" afterDir="false" />
+    <list default="true" id="db85785b-d02b-47a0-9b12-1630e6f28fc4" name="Default" comment="DoubleLocked with Singleton">
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_20SpinLocks/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks9.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +110,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/multi-thead/src/main/resources/img/datarace" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -108,11 +125,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks" />
+      <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/doublelock" />
       <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/datarace" />
       <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/deadlock" />
       <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/StripedLocks" />
-      <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/Accumulator" />
-      <recent name="$PROJECT_DIR$/multi-thead/src/main/resources/img/SynchronousQueue" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -307,7 +324,7 @@
       <workItem from="1615301955820" duration="3079000" />
       <workItem from="1615958742680" duration="17088000" />
       <workItem from="1616132661891" duration="203000" />
-      <workItem from="1616308244634" duration="18170000" />
+      <workItem from="1616308244634" duration="18724000" />
     </task>
     <task id="LOCAL-00001" summary="Parantheses problem solved">
       <created>1596639227405</created>
@@ -526,7 +543,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616424905024</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="DoubleLocked with Singleton">
+      <created>1616425932326</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1616425932326</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -566,7 +590,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Multithreading Synchronized ReentrantLock and ExecutorService Thread Pool" />
     <MESSAGE value="Documents" />
     <MESSAGE value="Callable doc" />
     <MESSAGE value="difference btw callable and runnable" />
@@ -591,7 +614,8 @@
     <MESSAGE value="Striped Locks" />
     <MESSAGE value="DeadLocks" />
     <MESSAGE value="Data Race" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data Race" />
+    <MESSAGE value="DoubleLocked with Singleton" />
+    <option name="LAST_COMMIT_MESSAGE" value="DoubleLocked with Singleton" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
