@@ -4,25 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db85785b-d02b-47a0-9b12-1630e6f28fc4" name="Default" comment="DoubleLocked with Singleton">
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_20SpinLocks/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/resources/img/spinlocks/spinlocks9.png" afterDir="false" />
+    <list default="true" id="db85785b-d02b-47a0-9b12-1630e6f28fc4" name="Default" comment="spinlocks">
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_21InterviewUseBathroom/Bathroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_21InterviewUseBathroom/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_21InterviewUseBathroom/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_21InterviewUseBathroom/Sex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_21InterviewUseBathroom/_01/Bathroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_21InterviewUseBathroom/_01/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_21InterviewUseBathroom/_01/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_21InterviewUseBathroom/_01/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_21InterviewUseBathroom/_01/PersonBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_21InterviewUseBathroom/_02/Bathroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_21InterviewUseBathroom/_02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_21InterviewUseBathroom/_02/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_21InterviewUseBathroom/final_solution/Bathroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_21InterviewUseBathroom/final_solution/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_21InterviewUseBathroom/final_solution/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_21InterviewUseBathroom/usingSemaphores/Bathroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_21InterviewUseBathroom/usingSemaphores/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thead/src/main/java/_21InterviewUseBathroom/usingSemaphores/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +36,9 @@
       <list>
         <option value="Arquillian JUnit Test Class" />
         <option value="Kotlin Class" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -139,20 +142,20 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.WorkerTest.whenParallelProcessing_mainThreadWillbeBlockedUntilCompletion">
+  <component name="RunManager" selected="Application.Driver">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="executorservice.Example1" />
+    <configuration name="Driver (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_21InterviewUseBathroom.usingSemaphores.Driver" />
       <module name="multi-thead" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="executorservice.*" />
+          <option name="PATTERN" value="_21InterviewUseBathroom.usingSemaphores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,13 +163,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01threadlocal.problems.UserService" />
+    <configuration name="Driver (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_21InterviewUseBathroom._01.Driver" />
       <module name="multi-thead" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_01threadlocal.problems.*" />
+          <option name="PATTERN" value="_21InterviewUseBathroom._01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,13 +177,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserServiceWithTenTheads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01threadlocal.problems.UserServiceWithTenTheads" />
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_21InterviewUseBathroom.Driver" />
       <module name="multi-thead" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_01threadlocal.problems.*" />
+          <option name="PATTERN" value="_21InterviewUseBathroom.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,13 +191,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserServiceWithThreadLocal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01threadlocal.problems.UserServiceWithThreadLocal" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_21InterviewUseBathroom._02.Main" />
       <module name="multi-thead" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_01threadlocal.problems.*" />
+          <option name="PATTERN" value="_21InterviewUseBathroom._02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_21InterviewUseBathroom.final_solution.Main" />
+      <module name="multi-thead" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_21InterviewUseBathroom.final_solution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,34 +221,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WorkerTest.whenParallelProcessing_mainThreadWillbeBlockedUntilCompletion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="multi-thead" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_13CyclicBarrier.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="_13CyclicBarrier" />
-      <option name="MAIN_CLASS_NAME" value="_13CyclicBarrier.WorkerTest" />
-      <option name="METHOD_NAME" value="whenParallelProcessing_mainThreadWillbeBlockedUntilCompletion" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -262,19 +251,17 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.UserService" />
-      <item itemvalue="Application.UserServiceWithTenTheads" />
-      <item itemvalue="Application.UserServiceWithThreadLocal" />
-      <item itemvalue="Application.Example1" />
-      <item itemvalue="JUnit.WorkerTest.whenParallelProcessing_mainThreadWillbeBlockedUntilCompletion" />
+      <item itemvalue="Application.Driver" />
+      <item itemvalue="Application.Driver (1)" />
+      <item itemvalue="Application.Driver (2)" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.WorkerTest.whenParallelProcessing_mainThreadWillbeBlockedUntilCompletion" />
-        <item itemvalue="Application.Example1" />
-        <item itemvalue="Application.UserServiceWithThreadLocal" />
-        <item itemvalue="Application.UserServiceWithTenTheads" />
-        <item itemvalue="Application.UserService" />
+        <item itemvalue="Application.Driver (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Driver (2)" />
+        <item itemvalue="Application.Driver" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +311,10 @@
       <workItem from="1615301955820" duration="3079000" />
       <workItem from="1615958742680" duration="17088000" />
       <workItem from="1616132661891" duration="203000" />
-      <workItem from="1616308244634" duration="18724000" />
+      <workItem from="1616308244634" duration="25765000" />
+      <workItem from="1616590732048" duration="1704000" />
+      <workItem from="1616593666025" duration="9842000" />
+      <workItem from="1616667499176" duration="20356000" />
     </task>
     <task id="LOCAL-00001" summary="Parantheses problem solved">
       <created>1596639227405</created>
@@ -550,7 +540,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616425932326</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="spinlocks">
+      <created>1616426822604</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1616426822604</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -590,7 +587,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Documents" />
     <MESSAGE value="Callable doc" />
     <MESSAGE value="difference btw callable and runnable" />
     <MESSAGE value="Thread Local concept" />
@@ -615,7 +611,8 @@
     <MESSAGE value="DeadLocks" />
     <MESSAGE value="Data Race" />
     <MESSAGE value="DoubleLocked with Singleton" />
-    <option name="LAST_COMMIT_MESSAGE" value="DoubleLocked with Singleton" />
+    <MESSAGE value="spinlocks" />
+    <option name="LAST_COMMIT_MESSAGE" value="spinlocks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
